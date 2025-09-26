@@ -19,4 +19,4 @@ Sunrise, civil and nautical twilight start times for Gdansk in 2025 based on pub
 ## How to run
 ```bash
 pip install -r requirements.txt
-jupyter notebook plot_twilight.ipynb
+jupyter notebook sunrises.ipynb
