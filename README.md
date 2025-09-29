@@ -2,10 +2,10 @@
 Sunrise, civil and nautical twilight start times for Gdansk in 2025 based on public API data
 
 ## Project files
-- `sunrises_datadownload.ipynb` – notebook for downloading data from the API
-- `sunrises_2025.csv` – saved dataset with all dates and times  
-- `sunrises.ipynb` – notebook for generating the final plot  
-- `sunrises.png` – final chart
+- [sunrises_datadownload.ipynb](sunrises_datadownload.ipynb) – notebook for downloading data from the API
+- [sunrises_2025.csv](sunrises_2025.csv) – saved dataset with all dates and times  
+- [sunrises.ipynb](sunrises_datadownload.ipynb) – notebook for generating the final plot  
+- [sunrises.png](sunrises_datadownload.ipynb) – final chart
 
 ## Visualization
 ![Sunrise, civil, nautical twilights](sunrises.png)
@@ -13,6 +13,7 @@ Sunrise, civil and nautical twilight start times for Gdansk in 2025 based on pub
 ## Technologies
 - Python 3.12
 - pandas
+- numpy
 - matplotlib
 - Jupyter Notebook
 
