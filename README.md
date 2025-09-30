@@ -28,7 +28,7 @@ The dataset sunrises_2025.csv is already included in this repository. If you wan
 ```bash
 jupyter notebook sunrises_datadownload.ipynb
 ```
-### 2. Run the and visualization notebook
+### 2. Run the visualization notebook
 ```bash
 jupyter notebook sunrises.ipynb
 ```
