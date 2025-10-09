@@ -23,8 +23,7 @@ Sunrise, civil and nautical twilight start times for Gdansk in 2025 based on pub
 ```bash
 pip install -r requirements.txt
 ```
-#### Note
-The dataset sunrises_2025.csv is already included in this repository. If you want to generate a dataset from the API by yourself, run the sunrises_datadownload.ipynb notebook first.
+> The dataset sunrises_2025.csv is already included in this repository. If you want to generate a dataset from the API by yourself, run the sunrises_datadownload.ipynb notebook first.
 ```bash
 jupyter notebook sunrises_datadownload.ipynb
 ```
